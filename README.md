@@ -1,29 +1,24 @@
-# Myportfolio
-Myportfolio showcasing projects, skills, and experience using HTML, CSS, JavaScript, and GitHub.
-# 🌿 Smart Irrigation System
+# 💼 MyPortfolio
 
-Automatically waters plants based on soil moisture levels using Arduino or ESP32.
+This is my personal portfolio website built to showcase my skills, projects, and professional background. It highlights my work in web development, IoT, embedded systems, and software engineering.
 
----
+## 🌟 Features
 
-## 🧠 Features
+- Responsive design (mobile-first)
+- Project gallery with live demo and code links
+- About me and skills section
+- Contact form / links to social media
+- Clean, professional layout
 
-- Reads soil moisture using analog sensor
-- Controls a water pump using a relay
-- Works with **Arduino UNO/Nano** and **ESP32**
-- Adjustable moisture threshold
+## 🛠 Built With
 
----
+- HTML5 & CSS3
+- JavaScript (Vanilla / frameworks optional)
+- Git & GitHub Pages
 
-## 🛠️ Hardware Required
+## 🚀 Deployment
 
-| Component             | Quantity |
-|----------------------|----------|
-| Soil Moisture Sensor | 1        |
-| Arduino or ESP32     | 1        |
-| Relay Module         | 1        |
-| Water Pump or LED    | 1        |
-| Jumper Wires         | as needed |
+This portfolio is live on GitHub Pages at:  
+[https://github.com/sabarikumar2004/Myportfolio]
 
----
 
